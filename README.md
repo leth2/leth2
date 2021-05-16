@@ -1,5 +1,5 @@
 ### Hi there 👋
-![tenforlfow-certi](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/32041864){: width="50px" height="50px"}
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/32041864L" width="50px" height="50px">
 
 <!--
 **leth2/leth2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
